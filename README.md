@@ -1,9 +1,3 @@
-Certainly! Since you want a professional README similar to the one you shared (which is for a published paper with GANs, Genetic Algorithms, and XAI), I have adapted your **Mental Health Social Media Analysis** project into that exact high-end format.
-
-I have also addressed the **dataset** question: Based on your notebook, the data is from **Beyond Blue** (an Australian support forum), so it is a **Public/Third-party dataset**, not your own primary collection.
-
-Here is your professional **README.md**:
-
 ---
 
 # 🧠 Mental Health Prediction & Linguistic Analysis Framework
