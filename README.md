@@ -94,7 +94,7 @@ The framework focuses on:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/mental-health-analysis.git
+git clone https://github.com/shihab13j/mental-health-analysis.git
 
 ```
 
